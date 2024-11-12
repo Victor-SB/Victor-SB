@@ -1,6 +1,6 @@
 ### Olá Eu sou o Victor Hugo 👋
 
-[![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://](https://www.linkedin.com/in/victor-hugo-sb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](http://linkedin.com/in/victor-hugo-sb))
+[![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-sb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](http://linkedin.com/in/victor-hugo-sb))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-sb&layout=compact)
 

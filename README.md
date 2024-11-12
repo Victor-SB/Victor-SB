@@ -15,6 +15,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia e em constante aprendizado
+Em constante evolução e aprendizado.
 
 ### Atualmente cursando MBA - Engenharia de Software pela faculdade FIAP

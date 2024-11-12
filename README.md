@@ -15,6 +15,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Em constante evolução e aprendizado.
-
+Em constante evolução e focado nos objetivos para alcançar a melhor performance e evolução na área de desenvolvimento.
 ### Atualmente cursando MBA - Engenharia de Software pela faculdade FIAP
